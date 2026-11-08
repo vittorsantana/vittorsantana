@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia e atuo buscando sempre as melhores soluções.
 ## 📊 GitHub Stats
 
 <!-- Substitua YOUR_USERNAME pelo seu usuário -->
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittorsantana&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ---
 
